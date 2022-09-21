@@ -1,0 +1,2 @@
+# tarifuygulama
+tarif ödevi.
